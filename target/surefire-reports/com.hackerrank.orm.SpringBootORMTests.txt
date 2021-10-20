@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: com.hackerrank.orm.SpringBootORMTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 28.88 s <<< FAILURE! - in com.hackerrank.orm.SpringBootORMTests
+testGetByParams  Time elapsed: 3.463 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
+testGetPaginationAndSorting  Time elapsed: 2.118 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
+testGetById  Time elapsed: 1.748 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
+testDeleteAll  Time elapsed: 1.542 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
+testDeleteById  Time elapsed: 1.501 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
+testGetAll  Time elapsed: 1.314 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
+testInsert  Time elapsed: 1.804 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
+testUpdate  Time elapsed: 1.48 s  <<< ERROR!
+java.lang.ClassCastException: class java.lang.Double cannot be cast to class java.lang.String (java.lang.Double and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.hackerrank.orm.SpringBootORMTests.setup(SpringBootORMTests.java:62)
+
