@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="0d000997-7689-41aa-9111-59e47a34a9b6" name="hack-service" url="jdbc:h2:file:~/h2/hack-service" driverClass="org.h2.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="" persistence-unit-name="Default" />
+    </data-source-infos>
+  </component>
+</project>
